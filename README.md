@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Nam
 
-### Hardware Engineer | PCB Designer | Embedded Systems Developer
+### Freelancer | Hardware Engineer | PCB Designer | Embedded Engineer
 
 I'm an Electronic Hardware Engineer passionate about designing embedded systems, high-speed PCBs, and intelligent IoT devices. Since I was young, I have been fascinated by electronic systems and how they work. Today I enjoy turning ideas into reliable hardware products, from concept and schematic design to PCB layout, firmware development, debugging, and manufacturing.
 
