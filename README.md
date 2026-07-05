@@ -26,22 +26,11 @@ I enjoy working on open-source hardware projects and continuously learning new t
 
 ### Microcontrollers
 
-* STM32 (F1/F4/L4)
-* ESP32 Series
-* ESP8266
-* Atmega328/2560/32U4
-* PIC24
-* nRF52832
-* nRF52810
+* STM32 (F1/F4/L4)/ ESP32 Series/ ESP8266/ Atmega328/2560/32U4/ PIC24/ nRF52832/ nRF52810
 
 ### ARM Processors
 
-* TI AM335x
-* TI AM625
-* TI AM62A7
-* Allwinner H3
-* Allwinner V3s
-* F1C200s
+* TI AM335x/ TI AM625/ TI AM62A7/ Allwinner H3/ Allwinner V3s/ F1C200s
 
 ### System on Modules
 
@@ -61,19 +50,8 @@ I enjoy working on open-source hardware projects and continuously learning new t
 
 ### Communication Protocols
 
-* UART
-* I2C
-* SPI
-* CAN
-* RS-232
-* RS-485
-* Wi-Fi
-* Bluetooth
-* LoRa
-* Zigbee
-* RFID
-* NFC
-* 3G / 4G
+* UART/ I2C/ SPI/ CAN/ RS-232/ RS-485
+* Wi-Fi/ Bluetooth/ LoRa/ Zigbee/ RFID/ NFC/ 3G / 4G
 
 ### Power Electronics
 
@@ -99,7 +77,6 @@ I enjoy working on open-source hardware projects and continuously learning new t
 * PCB Panelization
 * Flexible PCB
 * Rigid PCB
-* Rigid-Flex PCB
 
 ---
 
@@ -133,16 +110,8 @@ I enjoy working on open-source hardware projects and continuously learning new t
 
 Experience developing firmware for
 
-* GPIO
-* ADC
-* PWM
-* UART
-* SPI
-* I2C
-* CAN
-* USB
-* Wi-Fi
-* Bluetooth
+* GPIO/ ADC/ PWM/ UART/ SPI/ I2C/ CAN/ USB
+* Wi-Fi/ Bluetooth
 
 Programming languages
 
